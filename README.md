@@ -1,0 +1,2 @@
+# Multi-Horizon-Stock-Price-Forecasting-Using-Transformer-Based-and-Lexicon-Based-Sentiment-Models
+Developed a stock market prediction framework combining financial news sentiment, technical indicators, and historical data to forecast short- and medium-term DJIA movements. Evaluated transformer-based and lexicon-based models, showing that FinBERT improves predictive accuracy for actionable trading insights.
